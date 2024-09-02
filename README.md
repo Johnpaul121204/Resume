@@ -1,1 +1,1 @@
-info
+information of software 
